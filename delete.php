@@ -15,5 +15,6 @@ if($data)
 else
 {
     echo"<font color='Red'>Sorry Failed to Delete";
+    
 }
 ?>
