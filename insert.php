@@ -10,7 +10,7 @@ error_reporting(0);
 
 <body>
     <form action="" method="GET">
-
+        <h4>Insert Form</h4>
         Roll No: <input type="text" name="rollno" value="" /><br><br>
         Name: <input type="text" name="name" value="" /><br><br>
         Class <input type="text" name="class" value="" /><br><br>
